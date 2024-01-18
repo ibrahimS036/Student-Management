@@ -8,6 +8,7 @@ public class Delete2 {
 
 	public static void main(String[] args) throws Exception {
 		String name = "Aman";
+		System.out.println("fewfw");
 
 		Class.forName("com.mysql.cj.jdbc.Driver");
 
